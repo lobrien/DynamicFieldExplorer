@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "DynamicFieldExplorer", "DynamicFieldExplorer\DynamicFieldExplorer.fsproj", "{22D74F8C-66A5-4F2E-AF95-868F79A2173E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D74F8C-66A5-4F2E-AF95-868F79A2173E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{22D74F8C-66A5-4F2E-AF95-868F79A2173E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{22D74F8C-66A5-4F2E-AF95-868F79A2173E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{22D74F8C-66A5-4F2E-AF95-868F79A2173E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{22D74F8C-66A5-4F2E-AF95-868F79A2173E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{22D74F8C-66A5-4F2E-AF95-868F79A2173E}.Release|iPhone.Build.0 = Release|iPhone
+		{22D74F8C-66A5-4F2E-AF95-868F79A2173E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{22D74F8C-66A5-4F2E-AF95-868F79A2173E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
