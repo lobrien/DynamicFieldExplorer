@@ -2,4 +2,4 @@
 
 Explores the various fields created by UIFieldBehavior. 
 
-![](images/UIFieldBehavior.gallery.png)
+![](/images/UIFieldBehavior.gallery.png?raw=true)
